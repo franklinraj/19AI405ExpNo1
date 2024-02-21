@@ -44,6 +44,7 @@ do_nothing: Represents a passive action where the agent remains idle.</p>
 <p>Clean the room and Search for dirt and Suck it.</p>
 
 <h3>CODE:</h3>
+<br>
 
 <p>
   class VacuumCleanerAgent:
