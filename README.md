@@ -104,4 +104,5 @@ agent.print_status()
 
 ## OUTPUT:
 
-![image](https://github.com/franklinraj/19AI405ExpNo1/assets/148993740/25b7b583-9a91-4c04-b93e-afade3dc6c1b)
+![image](https://github.com/franklinraj/19AI405ExpNo1/assets/148993740/64b61492-6d4d-409c-8746-91492af3c605)
+
