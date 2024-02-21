@@ -103,4 +103,5 @@ agent.perform_action("nothing")
 agent.print_status()
 
 ## OUTPUT:
-/home/sec/Downloads/vaccum.jpeg
+
+![image](https://github.com/franklinraj/19AI405ExpNo1/assets/148993740/25b7b583-9a91-4c04-b93e-afade3dc6c1b)
