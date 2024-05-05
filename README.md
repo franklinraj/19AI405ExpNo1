@@ -106,3 +106,5 @@ agent.print_status()
 
 ![image](https://github.com/franklinraj/19AI405ExpNo1/assets/148993740/64b61492-6d4d-409c-8746-91492af3c605)
 
+## RESULT:
+thus the PEAS description code has been excueted successfully.
